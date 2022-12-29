@@ -1,0 +1,39 @@
+/* Working..🔥 */
+.app-style {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+/* 포스팅박스 */
+.square-style {
+  border: 4px solid teal;
+  border-radius: 12px;
+  padding: 12px 24px 24px;
+  width: 270px;
+}
+.header-style {
+  align-items: center;
+  border: 1px solid #ddd;
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  padding: 0 20px;
+}
+.titlebar-style {
+  align-items: center;
+  display: flex;
+  gap: 20px;
+}
+.bar-style {
+  display: flex;
+  background-color: #eee;
+  border-radius: 12px;
+  justify-content: space-between;
+  margin: 0 auto;
+  padding: 30px;
+}
+.layout {
+  max-width: 1200px;
+  min-width: 800px;
+  margin: 0 auto;
+}
